@@ -12,6 +12,11 @@ It includes a few snippets of code to get you started
 - Use the provided code snippets as a starting point for your project  
 - Look for the keyword(s) mentioned in the sample project to understand how the code is organized and functions  
 
+### Screenshot
+https://orangefloat.notion.site/fiff-screenshot-84e4b4b46d1e4ec4a2995a8970d92fc1
+
+![This is an image](https://orangefloat.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe0bc0ecf-1f5a-4640-92da-5b33de8408d8%2FScreen_Shot_2022-11-03_at_01.14.15.png?table=block&id=13d07b37-4874-4eb8-9b11-ba1a16d6c362&spaceId=03c0524f-7b9a-4bb2-abd8-add73f7e0355&width=2000&userId=&cache=v2)
+
 
 ### list snippet  
 
