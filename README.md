@@ -58,3 +58,6 @@ https://github.com/edwinbernadus/starterkit-backend-rust-warp
 
 8. starterkit-backend-php-laravel  
 https://github.com/edwinbernadus/starterkit-backend-php-laravel
+
+9. starterkit-backend-golang-gin    
+https://github.com/edwinbernadus/starterkit-backend-golang-gin
